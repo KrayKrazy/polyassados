@@ -8,8 +8,8 @@ import { motion } from 'framer-motion';
 export default function Home() {
   const [recheioSelecionado, setRecheioSelecionado] = useState('');
   
-  const semRecheioLink = "https://pay.cakto.com.br/5yAku29";
-  const comRecheioBaseLink = "https://pay.cakto.com.br/4vA9JZw";
+  const semRecheioLink = "https://pay.cakto.com.br/36truah_1172369";
+  const comRecheioBaseLink = "https://pay.cakto.com.br/36dev8o_1172377";
 
   const handleComprarComRecheio = () => {
     if (!recheioSelecionado) {
